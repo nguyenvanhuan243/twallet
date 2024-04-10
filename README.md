@@ -1,5 +1,7 @@
 # TWallet
 
+[![Bring Them Home](https://badge.yehoyada.com)](https://www.standwithus.com/)  
+
 Minimal TON wallet on Telegram (Official Bot https://t.me/TONPrivateWalletBot)
 
 ---
